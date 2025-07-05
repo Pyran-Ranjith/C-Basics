@@ -1,0 +1,5 @@
+- date: 05/07/2025
+- not yet installed
+- To install refer to folllowing
+    - DeepSeeke 
+        - Running C++ in VS Code Guide
